@@ -29,7 +29,7 @@ def get_attach(item):
 } 
 
 
-Token = 'xoxb-4797969166359-4805937505430-tQmxNPKzUEXgw485q4PYP6Hh' # 자신의 Token 입력
+Token = '' # 자신의 Token 입력
 str1_title = '오늘의 증시 KOSPI 2021-09-17 (금)'
 str2 = 'test 메시지를 보냅니다.'
 
